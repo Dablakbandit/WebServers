@@ -1,0 +1,11 @@
+fr\rhaz\webservers\WebServers$API.class
+fr\rhaz\webservers\Bungee$BungeeWebEvent.class
+fr\rhaz\webservers\WebServers$API$WebHandler.class
+fr\rhaz\webservers\WebServers$API$WebEvent.class
+fr\rhaz\webservers\WebServers.class
+fr\rhaz\webservers\Bukkit$BukkitWebEvent.class
+fr\rhaz\webservers\Bukkit.class
+fr\rhaz\webservers\WebServers$API$WebPlugin.class
+fr\rhaz\webservers\WebServers$API$WebServer.class
+fr\rhaz\webservers\Bungee.class
+fr\rhaz\webservers\WebServers$API$NoLogging.class
